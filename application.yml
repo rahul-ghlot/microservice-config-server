@@ -1,6 +1,6 @@
 spring:
   application:
-    name: API-GATEWAY
+    name: API-GATEWAY-TEST
     
 eureka:
   instance:
